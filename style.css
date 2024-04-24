@@ -1,0 +1,66 @@
+/* Styling for HTML elements */
+
+/* Adding a subtle border to an element */
+.border {
+    border: 2px solid rgb(134, 133, 133); /* Grey border */
+}
+
+/* Adding padding to create space inside an element */
+.padding {
+    padding: 20px; /* Padding of 20 pixels */
+}
+
+/* Providing margin to separate elements */
+.margin {
+    margin: 25px; /* Margin of 25 pixels on all sides */
+}
+
+/* Margin only on the top of an element */
+.margin-top {
+    margin-top: 15px; /* Margin of 15 pixels on the top */
+}
+
+/* Changing text color to a vibrant shade */
+
+p {
+    font-size: 30px; /* Font size of paragraphs */
+    color: blue;
+}
+ul {
+    font-size: 30px; /* Font size of menu list */
+    color: rgb(0, 0, 0);
+}
+/* Aligning text to the center for better presentation */
+.text-align-center {
+    text-align: center; /* Center alignment */
+}
+
+/* Aligning text to the right for specific layout needs */
+
+
+/* Adding underline to text for emphasis */
+
+
+/* Floating an image to the left for layout adjustment */
+.float-left {
+    float: left; /* Float left */
+}
+
+/* Floating an image to the right for layout adjustment */
+.float-right {
+    float: right; /* Float right */
+}
+
+/* Floating an image to the center for layout adjustment */
+.float-center {
+    float: center; /* Float center */
+}
+
+.box-shadow-example {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); /* Adds shadow effect */
+}
+
+/* Adding text-transform to change text to uppercase */
+.text-uppercase {
+    text-transform: uppercase; /* Converts text to uppercase */
+}
